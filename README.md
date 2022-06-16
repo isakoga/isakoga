@@ -1,4 +1,4 @@
-### Welcome to my profile :smiling_face:
+### Welcome to my profile 😄
 
 I'm Isadora Koga, 23 years old.
 I like to transform code into real programs.
