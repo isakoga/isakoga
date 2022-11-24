@@ -4,9 +4,10 @@ I'm Isadora Koga, 24 years old.
 I like to transform code into real programs.
 
 My passion for development started when I was a curious child wanted to know how does the internet works!
-For many years I focus my study on frontend stacks, but once I had to work with backend I found my real love on coding.
-
+I started my studies with frontend stacks many years ago, in the past year I was exploring the backend side of the apps, working with nodejs and typescript.
 Nowadays I'm working as a Frontend Software Engineering at Arcotech!
+
+I really like to learn new things and share my knowledge with everyone, feel free to contact me aytime!
 
 ### Habilities
 
