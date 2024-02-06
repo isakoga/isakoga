@@ -1,6 +1,6 @@
 ### Welcome to my profile 😄
 
-I'm Isadora Koga, 24 years old.
+I'm Isadora Koga, 25 years old.
 I like to transform code into real programs.
 
 My passion for development started when I was a curious child wanted to know how does the internet works!
